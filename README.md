@@ -9,12 +9,12 @@
 
 Hi, I am BusinesS Analytics graduate from Deakin university Australia. Currently studying Data Analytics at Monash University. Apart from academics, I am a huge sports fan. 
 
-####      ![](https://img.shields.io/badge/Web%20Designing-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Augmented%20Reality-%7C-blue) ![](https://img.shields.io/badge/SEO-%7C-ff69b4) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
+####      ![](https://img.shields.io/badge/Databases-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Plotly-%7C-lightblue) ![](https://img.shields.io/badge/JavaScript-%7C-yellow) ![](https://img.shields.io/badge/D3-%7C-ff69b4) ![](https://img.shields.io/badge/APIs-%3C%2F%3E-blueviolet)
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently studying Google analytics to obtain Google Analytics Indiviual Qualification.
-- 🌱 I’m currently learning GraphQL and DevOps
+- 🌱 I’m currently learning JS and MS Azure
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: anjanabandara3809@gmail.com
 - 📝[Resume]
@@ -29,11 +29,11 @@ Hi, I am BusinesS Analytics graduate from Deakin university Australia. Currently
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Achievement**  
+**Projects**  
 
-- DECOV 2020 [Code of Tigers] - 1st Prize - Education Domain 
-- DSC BVP Manidesto - 1st Prize - Application Making
-- Hack the Hour Glass - 1st Prize - AR/VR Domain 
+- Using SQLAlchemy to connect PostgresSQL and do an analysis on Victorian Traffic Volume
+- ETL and ELT piplines 
+- Database engineering 
 
 
 
@@ -46,4 +46,4 @@ Hi, I am BusinesS Analytics graduate from Deakin university Australia. Currently
 ----
 
 
-Last Edited on: 23/09/2020
+
