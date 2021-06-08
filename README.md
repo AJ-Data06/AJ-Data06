@@ -7,9 +7,11 @@
 
 <br/>
 
-Hi, I am BusinesS Analytics graduate from Deakin university Australia. Currently studying Data Analytics at Monash University. Apart from academics, I am a huge sports fan. 
+Hi, I am Business Analytics graduate from Deakin university Australia. Currently studying Data Analytics at Monash University. Apart from academics, I am a huge sports fan. 
 
-####      ![](https://img.shields.io/badge/Databases-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Plotly-%7C-lightblue) ![](https://img.shields.io/badge/JavaScript-%7C-yellow) ![](https://img.shields.io/badge/D3-%7C-ff69b4) ![](https://img.shields.io/badge/APIs-%3C%2F%3E-blueviolet)
+####      ![](https://img.shields.io/badge/Databases-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Plotly-%7C-lightblue) ![](https://img.shields.io/badge/JavaScript-%7C-yellow) ![](https://img.shields.io/badge/D3-%7C-ff69b4) ![](https://img.shields.io/badge/APIs-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Pandas-%3C%2F%3E-violet) ![](https://img.shields.io/badge/MongoDB-%3C%2F%3E-blue)
+  
+  
   
 **Talking about Personal Stuffs:**
 
